@@ -2,4 +2,4 @@
 
 Este proyecto contiene el curso de introducción a GIT
 
-Desarrollado por Jaime Rodríguez
+Desarrollado por Jaime Rodríguez.
